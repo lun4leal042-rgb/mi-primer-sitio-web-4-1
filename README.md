@@ -1,1 +1,12 @@
-# mi-primer-sitio-web-4-1
+# Mi Primer Sitio Web
+
+Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
+
+## Presentación 
+- **Estudiante:** Leal Luna :3
+- **Curso:** 4to 1ra
+- **Escuela:** Agustin Tosco
+
+## Sobre este proyecto
+Este proyecto contiene mi primer archivo HTML básico y está alojado gratuitamente mediante GitHub Pages.
+3
